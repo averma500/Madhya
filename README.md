@@ -1,5 +1,5 @@
 # Madhya
-Madhya is the a kind of software to when you open this software your browser can open multiple tab (Infinity).
+Madhya is the a kind of software to when you open this software your browser can open infinity tab at a time.
 Your system should be hang/freezz... so you can try at own risk.
 You can also use for prank on your friend system/computer.
 
